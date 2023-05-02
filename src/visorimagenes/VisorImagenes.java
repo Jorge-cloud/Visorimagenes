@@ -16,6 +16,7 @@ public class VisorImagenes {
      */
     public static void main(String[] args) {
        new Mensaje().setVisible(true);
+/*nnnnnnn
     }
     
 }
